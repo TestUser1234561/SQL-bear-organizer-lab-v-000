@@ -1,0 +1,8 @@
+insert into bears (name, age, gender, color, temperament, alive) values ('1', 1, 0, 'black', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('2', 12, 0, 'red', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('3', 141, 1, 'black', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('4', 11, 0, 'green', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('5', 142, 0, 'black', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('6', 11, 0, 'black', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('7', 15, 1, 'blue', 'cool', true)
+insert into bears (name, age, gender, color, temperament, alive) values ('', 83, 0, 'cyan', 'cool', false)
