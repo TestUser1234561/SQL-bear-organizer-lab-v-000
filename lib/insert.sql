@@ -5,4 +5,4 @@ insert into bears (name, age, gender, color, temperament, alive) values ('4', 11
 insert into bears (name, age, gender, color, temperament, alive) values ('5', 142, 0, 'black', 'cool', true)
 insert into bears (name, age, gender, color, temperament, alive) values ('6', 11, 0, 'black', 'cool', true)
 insert into bears (name, age, gender, color, temperament, alive) values ('7', 15, 1, 'blue', 'cool', true)
-insert into bears (name, age, gender, color, temperament, alive) values ('', 83, 0, 'cyan', 'cool', false)
+insert into bears (age, gender, color, temperament, alive) values (83, 0, 'cyan', 'cool', false)
